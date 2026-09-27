@@ -1,6 +1,6 @@
 # MAAS CLEAN LLC — Website
 
-Next.js 14 (App Router) + Tailwind CSS site for Oasis Cleaning of Austin LLC.
+Next.js 14 (App Router) + Tailwind CSS site for MAAS CLEAN of Miami LLC.
 
 - 4 pages: Home, About Us, Reviews, Services
 - All-static pages, generated at build time (fast loading)
