@@ -4,8 +4,8 @@ import Link from 'next/link';
 export default function Logo({ className = '', size = 160, unlinked = false }) {
   const img = (
     <Image
-      src="/images/logo.jpeg"
-      alt="Oasis Cleaning of Austin LLC"
+      src="/images/maas-clean-logo.png"
+      alt="MAAS CLEAN"
       width={size}
       height={size}
       priority
@@ -19,7 +19,11 @@ export default function Logo({ className = '', size = 160, unlinked = false }) {
   }
 
   return (
-    <Link href="/" aria-label="Oasis Cleaning of Austin – Home" className={className}>
+    <Link
+      href="/"
+      aria-label="MAAS CLEAN – Home"
+      className={className}
+    >
       {img}
     </Link>
   );

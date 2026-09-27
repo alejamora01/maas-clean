@@ -1,20 +1,19 @@
 {
   "company": {
-    "name": "Oasis Cleaning of Austin LLC",
-    "shortName": "Oasis Cleaning",
-    "slogan": "Spotless spaces. Better living.",
-    "phone": "(737) 210-3752",
-    "phoneRaw": "+17372103752",
+    "name": "MAAS CLEAN LLC",
+    "shortName": "MAAS CLEAN",
+    "slogan": "Clean Spaces. Peace of Mind.",
+    "phone": "(305) 555-0148",
+    "phoneRaw": "+13055550148",
     "emails": [
-      "admin@oasicleaningofaustin.com",
-      "paula@oasicleaningofaustin.com"
+      "maasclean@outlook.com"
     ],
     "hours": {
       "weekdays": "Mon – Fri: 8.30AM – 4PM",
       "saturday": "Sat: 9AM – 3PM",
       "sunday": "Sun: Closed"
     },
-    "copyright": "© 2026 Oasis Cleaning of Austin LLC. All rights reserved."
+    "copyright": "© 2026 MAAS CLEAN. All rights reserved."
   },
   "navigation": [
     { "label": "Home", "href": "/" },
@@ -22,10 +21,15 @@
     { "label": "Reviews", "href": "/reviews" },
     { "label": "Services", "href": "/services" }
   ],
-  "social": [
-    { "platform": "facebook", "href": "https://www.facebook.com/share/14f13nBw6Vf/?mibextid=wwXIfr" },
-    { "platform": "instagram", "href": "https://www.instagram.com/oasiscleaningofaustinllc" }
- 
+   "social": [
+    {
+      "platform": "instagram",
+      "href": "https://www.instagram.com/maasclean"
+    },
+    {
+      "platform": "facebook",
+      "href": "https://www.facebook.com/maasclean"
+    }
   ],
   "footerLinks": {
     "title": "QUICK LINKS",

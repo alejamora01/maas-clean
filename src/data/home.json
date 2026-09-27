@@ -2,32 +2,32 @@
   "hero": {
     "titleLine1": "We Clean.",
     "titleLine2": "You Relax.",
-    "description": "Professional cleaning services for homes and businesses in Austin."
+    "description": "Professional cleaning services for homes and businesses in Miami."
   },
   "features": [
     {
       "icon": "sparkles",
       "title": "Spotless Results",
-      "description": "We leave every space clean, fresh, and impeccable."
+      "description": "We focus on the details that make your space feel truly clean and refreshed."
     },
     {
       "icon": "shield-check",
-      "title": "Trusted & Reliable",
-      "description": "You can count on us to show up and get the job done."
+      "title": "Reliable Service",
+      "description": "Professional cleaning services designed around your needs and schedule."
     },
     {
       "icon": "user",
-      "title": "Friendly Team",
-      "description": "Our team is professional, background-checked, and easy to work with."
+      "title": "Professional Team",
+      "description": "Friendly service with attention to detail from start to finish."
     },
     {
       "icon": "home",
-      "title": "Homes & Offices",
-      "description": "We clean homes, offices, and more with care."
+      "title": "Homes & Businesses",
+      "description": "Cleaning solutions for residential and commercial spaces across Miami."
     }
   ],
   "licensedBanner": {
-    "title": "LICENSED & INSURED",
-    "description": "Peace of mind with every clean."
+    "title": "MAAS CLEAN",
+    "description": "Professional cleaning services in Miami, Florida."
   }
 }

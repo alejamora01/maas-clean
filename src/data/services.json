@@ -1,28 +1,70 @@
 {
   "hero": {
-    "eyebrow": "Our Cleaning",
+    "eyebrow": "OUR CLEANING",
     "title": "Services",
-    "description": "Professional cleaning services for homes, apartments, offices, and rentals across Austin."
+    "description": "Professional cleaning solutions for homes, apartments, offices, and short-term rentals across Miami."
   },
   "services": [
-    { "icon": "home-sparkle", "name": "Standard Cleaning" },
-    { "icon": "spray", "name": "Deep Cleaning" },
-    { "icon": "box", "name": "Move In / Move Out Cleaning" },
-    { "icon": "luggage", "name": "Airbnb Cleaning" },
-    { "icon": "hardhat", "name": "Post-Construction Cleaning" },
-    { "icon": "office", "name": "Commercial / Office Cleaning" },
-    { "icon": "calendar-check", "name": "Recurring Cleaning" },
-    { "icon": "apartment", "name": "Apartment Cleaning" }
+    {
+      "icon": "home-sparkle",
+      "name": "Standard Cleaning"
+    },
+    {
+      "icon": "spray",
+      "name": "Deep Cleaning"
+    },
+    {
+      "icon": "box",
+      "name": "Move In / Move Out Cleaning"
+    },
+    {
+      "icon": "luggage",
+      "name": "Airbnb & Short-Term Rental Cleaning"
+    },
+    {
+      "icon": "office",
+      "name": "Commercial / Office Cleaning"
+    },
+    {
+      "icon": "calendar-check",
+      "name": "Recurring Cleaning"
+    },
+    {
+      "icon": "apartment",
+      "name": "Apartment Cleaning"
+    },
+    {
+      "icon": "sparkles",
+      "name": "Customized Cleaning"
+    }
   ],
   "whyChooseUs": {
-    "title": "WHY CLIENTS CHOOSE OASIS CLEANING",
+    "title": "WHY CLIENTS CHOOSE MAAS CLEAN",
     "items": [
-      { "icon": "user-check", "label": "Reliable & Background Checked" },
-      { "icon": "sparkle-plus", "label": "Attention to Detail" },
-      { "icon": "clock", "label": "Flexible Scheduling" },
-      { "icon": "users", "label": "Friendly Professional Team" },
-         { "icon": "leaf", "label": "Eco-Friendly Products" },
-      { "icon": "shield-check", "label": "Licensed & Insured" }
+      {
+        "icon": "user-check",
+        "label": "Professional Service"
+      },
+      {
+        "icon": "sparkle-plus",
+        "label": "Attention to Detail"
+      },
+      {
+        "icon": "clock",
+        "label": "Flexible Scheduling"
+      },
+      {
+        "icon": "users",
+        "label": "Friendly Service"
+      },
+      {
+        "icon": "leaf",
+        "label": "Fresh & Clean Spaces"
+      },
+      {
+        "icon": "shield-check",
+        "label": "Reliable Service"
+      }
     ]
   },
   "quoteForm": {
@@ -30,18 +72,18 @@
       "Standard Cleaning",
       "Deep Cleaning",
       "Move In / Move Out Cleaning",
-      "Airbnb Cleaning",
-      "Post-Construction Cleaning",
+      "Airbnb & Short-Term Rental Cleaning",
       "Commercial / Office Cleaning",
       "Recurring Cleaning",
-      "Apartment Cleaning"
+      "Apartment Cleaning",
+      "Customized Cleaning"
     ],
     "propertyTypes": [
       "House",
       "Apartment",
       "Condo",
       "Office",
-      "Airbnb / Short-term Rental",
+      "Airbnb / Short-Term Rental",
       "Other"
     ]
   }
